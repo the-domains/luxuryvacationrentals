@@ -1,0 +1,28 @@
+name: luxuryvacationrentals
+favicon: null
+layout_spectrum: 0.31590022845193744
+typography_spectrum: 0.5751794525422156
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3081659018062055
+  lightness: 0.12519491044804454
+  saturation: 0.13617935497313738
+  rhythmicContrast: 0.16934140329249203
+purpose: []
